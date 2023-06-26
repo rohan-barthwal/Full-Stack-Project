@@ -1,0 +1,43 @@
+.App {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+body{
+  background-color:#4e59ad !important ;
+  font-family: "Roboto Condensed",sans-serif;;
+}
+
+.card {
+  width: 500px;
+  height: auto;
+ }
+
+ .card-title {
+  text-align: left;
+  color: #3f444a;
+ }
+
+ .form-select {
+  color:#3f444a;
+ }
+
+ .anchor {
+  display: flex;
+  justify-content: end;
+ }
+
+ .anchor a {
+  text-decoration: none;
+  color: #3f444a;
+ }
+ 
+ .button {
+  display: flex;
+  justify-content: end;
+ }
+
+.anchor_btn .btn btn-danger {
+  text-decoration: none;
+}
